@@ -1,0 +1,20 @@
+{
+  "name": "hahaha",
+  "version": "1.0.1",
+  "description": "nothing",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.6.2",
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.oschina.net:muli9611/testone.git"
+  },
+  "author": "muli",
+  "license": "ISC"
+}
